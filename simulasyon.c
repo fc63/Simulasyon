@@ -29,7 +29,7 @@ int main() {
     srand(time(NULL));
     int olma=0,karsi=0;
 
-    /*int olmapuani = 1000000;
+    int olmapuani = 1000000;
     int karsikoymapuani = 500000;
 
     int result = simulateEvent(olmapuani, karsikoymapuani);
@@ -38,7 +38,7 @@ int main() {
         printf("Basarili\n");
     } else {
         printf("Basarisiz\n");
-    }*/
+    }
     
     /*simulateevent debugger
     int rad=0,radbuyuksifir=0,radkucuksifir=0
